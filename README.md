@@ -1,5 +1,5 @@
 # Coursera_Capstone
 Capstone Project - IBM Datascience
-USA Accidents Analysis 
+USA Accidents Data Analysis 
 Machine Learning
 Python
